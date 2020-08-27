@@ -1,2 +1,2 @@
 # Basics
-Alguns agorítimos úteis e conceitos básicos de machine learning.
+Alguns agoritimos úteis e conceitos básicos de machine learning.
