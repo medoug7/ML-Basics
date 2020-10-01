@@ -33,5 +33,9 @@ Tentamos imitar o processo da evolução natural para encontrar a melhor soluç�
 Exemplo simples de como processar dados, montar, treinar, e avaliar uma rede neural para classificação binária construída com o módulo Keras do Tensorflow.
 
 
+## Basic Keras LSTM:
+Exemplos de diferentes aplicações de camadas LSTM (Long Short-Term Memory) do Keras para previsão baseada em série temporal.
+
+
 ## Basic Torch CNN:
 Exemplo de como construir uma rede neural convolucional através do Pytorch e treiná-la para identificar números escritos à mão (base de dados MNIST) e também peças de roupa (base de dados Fashion MNIST).
