@@ -1,7 +1,4 @@
-# Basics
-Alguns agoritmos úteis e conceitos básicos de machine learning.
-
-## Basic Python:
+## Basic_Python:
 Exemplos de como usar algumas ferramentas úteis em python. Inclui Dunder methods, decorators and generators.
 
 
